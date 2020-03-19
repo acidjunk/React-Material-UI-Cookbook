@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[29],{1430:function(module,exports,__webpack_require__){"use strict";var _interopRequireDefault=__webpack_require__(8);Object.defineProperty(exports,"__esModule",{value:!0}),exports.default=void 0;var _react=_interopRequireDefault(__webpack_require__(0)),_default=(0,_interopRequireDefault(__webpack_require__(9)).default)(_react.default.createElement("path",{d:"M20 5.41L18.59 4 7 15.59V9H5v10h10v-2H8.41z"}),"CallReceived");exports.default=_default}}]);
+//# sourceMappingURL=29.c7499283e856776c6bdf.bundle.js.map

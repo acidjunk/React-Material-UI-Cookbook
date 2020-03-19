@@ -1,0 +1,499 @@
+/* roboto-100normal - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('Roboto Thin '),
+    local('Roboto-Thin'),
+    url(static/media/roboto-latin-100.987b8457.woff2) format('woff2'), 
+    url(static/media/roboto-latin-100.e9dbbe8a.woff) format('woff'); /* Modern Browsers */
+}
+
+/* roboto-100italic - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('Roboto Thin italic'),
+    local('Roboto-Thinitalic'),
+    url(static/media/roboto-latin-100italic.6232f43d.woff2) format('woff2'), 
+    url(static/media/roboto-latin-100italic.d704bb3d.woff) format('woff'); /* Modern Browsers */
+}
+
+/* roboto-300normal - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Roboto Light '),
+    local('Roboto-Light'),
+    url(static/media/roboto-latin-300.55536c8e.woff2) format('woff2'), 
+    url(static/media/roboto-latin-300.a1471d1d.woff) format('woff'); /* Modern Browsers */
+}
+
+/* roboto-300italic - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Roboto Light italic'),
+    local('Roboto-Lightitalic'),
+    url(static/media/roboto-latin-300italic.d69924b9.woff2) format('woff2'), 
+    url(static/media/roboto-latin-300italic.210a7c78.woff) format('woff'); /* Modern Browsers */
+}
+
+/* roboto-400normal - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Roboto Regular '),
+    local('Roboto-Regular'),
+    url(static/media/roboto-latin-400.5d4aeb4e.woff2) format('woff2'), 
+    url(static/media/roboto-latin-400.bafb105b.woff) format('woff'); /* Modern Browsers */
+}
+
+/* roboto-400italic - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Roboto Regular italic'),
+    local('Roboto-Regularitalic'),
+    url(static/media/roboto-latin-400italic.d8bcbe72.woff2) format('woff2'), 
+    url(static/media/roboto-latin-400italic.9680d5a0.woff) format('woff'); /* Modern Browsers */
+}
+
+/* roboto-500normal - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Roboto Medium '),
+    local('Roboto-Medium'),
+    url(static/media/roboto-latin-500.28546717.woff2) format('woff2'), 
+    url(static/media/roboto-latin-500.de8b7431.woff) format('woff'); /* Modern Browsers */
+}
+
+/* roboto-500italic - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Roboto Medium italic'),
+    local('Roboto-Mediumitalic'),
+    url(static/media/roboto-latin-500italic.510dec37.woff2) format('woff2'), 
+    url(static/media/roboto-latin-500italic.ffcc050b.woff) format('woff'); /* Modern Browsers */
+}
+
+/* roboto-700normal - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Roboto Bold '),
+    local('Roboto-Bold'),
+    url(static/media/roboto-latin-700.037d8304.woff2) format('woff2'), 
+    url(static/media/roboto-latin-700.cf6613d1.woff) format('woff'); /* Modern Browsers */
+}
+
+/* roboto-700italic - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Roboto Bold italic'),
+    local('Roboto-Bolditalic'),
+    url(static/media/roboto-latin-700italic.010c1aee.woff2) format('woff2'), 
+    url(static/media/roboto-latin-700italic.846d1890.woff) format('woff'); /* Modern Browsers */
+}
+
+/* roboto-900normal - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Roboto Black '),
+    local('Roboto-Black'),
+    url(static/media/roboto-latin-900.19b7a0ad.woff2) format('woff2'), 
+    url(static/media/roboto-latin-900.8c2ade50.woff) format('woff'); /* Modern Browsers */
+}
+
+/* roboto-900italic - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Roboto Black italic'),
+    local('Roboto-Blackitalic'),
+    url(static/media/roboto-latin-900italic.7b770d6c.woff2) format('woff2'), 
+    url(static/media/roboto-latin-900italic.bc833e72.woff) format('woff'); /* Modern Browsers */
+}
+
+
+/* exo-100normal - latin */
+@font-face {
+  font-family: 'Exo';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('Exo Thin '),
+    local('Exo-Thin'),
+    url(static/media/exo-latin-100.ecfa429b.woff2) format('woff2'), 
+    url(static/media/exo-latin-100.c873ec80.woff) format('woff'); /* Modern Browsers */
+}
+
+/* exo-100italic - latin */
+@font-face {
+  font-family: 'Exo';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 100;
+  src:
+    local('Exo Thin italic'),
+    local('Exo-Thinitalic'),
+    url(static/media/exo-latin-100italic.f7273134.woff2) format('woff2'), 
+    url(static/media/exo-latin-100italic.77b5c9ff.woff) format('woff'); /* Modern Browsers */
+}
+
+/* exo-200normal - latin */
+@font-face {
+  font-family: 'Exo';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Exo Extra Light '),
+    local('Exo-Extra Light'),
+    url(static/media/exo-latin-200.cff6706d.woff2) format('woff2'), 
+    url(static/media/exo-latin-200.b0cae8fa.woff) format('woff'); /* Modern Browsers */
+}
+
+/* exo-200italic - latin */
+@font-face {
+  font-family: 'Exo';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 200;
+  src:
+    local('Exo Extra Light italic'),
+    local('Exo-Extra Lightitalic'),
+    url(static/media/exo-latin-200italic.35f2aaf3.woff2) format('woff2'), 
+    url(static/media/exo-latin-200italic.449ea98c.woff) format('woff'); /* Modern Browsers */
+}
+
+/* exo-300normal - latin */
+@font-face {
+  font-family: 'Exo';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Exo Light '),
+    local('Exo-Light'),
+    url(static/media/exo-latin-300.c70b6a46.woff2) format('woff2'), 
+    url(static/media/exo-latin-300.dd61b520.woff) format('woff'); /* Modern Browsers */
+}
+
+/* exo-300italic - latin */
+@font-face {
+  font-family: 'Exo';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Exo Light italic'),
+    local('Exo-Lightitalic'),
+    url(static/media/exo-latin-300italic.f3611345.woff2) format('woff2'), 
+    url(static/media/exo-latin-300italic.48d581bb.woff) format('woff'); /* Modern Browsers */
+}
+
+/* exo-400normal - latin */
+@font-face {
+  font-family: 'Exo';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Exo Regular '),
+    local('Exo-Regular'),
+    url(static/media/exo-latin-400.55f2b78c.woff2) format('woff2'), 
+    url(static/media/exo-latin-400.ff411134.woff) format('woff'); /* Modern Browsers */
+}
+
+/* exo-400italic - latin */
+@font-face {
+  font-family: 'Exo';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Exo Regular italic'),
+    local('Exo-Regularitalic'),
+    url(static/media/exo-latin-400italic.dfdb8a32.woff2) format('woff2'), 
+    url(static/media/exo-latin-400italic.6a867ffd.woff) format('woff'); /* Modern Browsers */
+}
+
+/* exo-500normal - latin */
+@font-face {
+  font-family: 'Exo';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Exo Medium '),
+    local('Exo-Medium'),
+    url(static/media/exo-latin-500.7a9798ae.woff2) format('woff2'), 
+    url(static/media/exo-latin-500.3836d57e.woff) format('woff'); /* Modern Browsers */
+}
+
+/* exo-500italic - latin */
+@font-face {
+  font-family: 'Exo';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Exo Medium italic'),
+    local('Exo-Mediumitalic'),
+    url(static/media/exo-latin-500italic.61c37409.woff2) format('woff2'), 
+    url(static/media/exo-latin-500italic.ec8eb4db.woff) format('woff'); /* Modern Browsers */
+}
+
+/* exo-600normal - latin */
+@font-face {
+  font-family: 'Exo';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Exo SemiBold '),
+    local('Exo-SemiBold'),
+    url(static/media/exo-latin-600.d0279473.woff2) format('woff2'), 
+    url(static/media/exo-latin-600.69e3aab2.woff) format('woff'); /* Modern Browsers */
+}
+
+/* exo-600italic - latin */
+@font-face {
+  font-family: 'Exo';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 600;
+  src:
+    local('Exo SemiBold italic'),
+    local('Exo-SemiBolditalic'),
+    url(static/media/exo-latin-600italic.4786cbe2.woff2) format('woff2'), 
+    url(static/media/exo-latin-600italic.cf237fdb.woff) format('woff'); /* Modern Browsers */
+}
+
+/* exo-700normal - latin */
+@font-face {
+  font-family: 'Exo';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Exo Bold '),
+    local('Exo-Bold'),
+    url(static/media/exo-latin-700.c5d6f897.woff2) format('woff2'), 
+    url(static/media/exo-latin-700.9ea5eea6.woff) format('woff'); /* Modern Browsers */
+}
+
+/* exo-700italic - latin */
+@font-face {
+  font-family: 'Exo';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Exo Bold italic'),
+    local('Exo-Bolditalic'),
+    url(static/media/exo-latin-700italic.2717f2e5.woff2) format('woff2'), 
+    url(static/media/exo-latin-700italic.22c09198.woff) format('woff'); /* Modern Browsers */
+}
+
+/* exo-800normal - latin */
+@font-face {
+  font-family: 'Exo';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Exo ExtraBold '),
+    local('Exo-ExtraBold'),
+    url(static/media/exo-latin-800.dd49577c.woff2) format('woff2'), 
+    url(static/media/exo-latin-800.5c140b49.woff) format('woff'); /* Modern Browsers */
+}
+
+/* exo-800italic - latin */
+@font-face {
+  font-family: 'Exo';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 800;
+  src:
+    local('Exo ExtraBold italic'),
+    local('Exo-ExtraBolditalic'),
+    url(static/media/exo-latin-800italic.1d4c476b.woff2) format('woff2'), 
+    url(static/media/exo-latin-800italic.4f399c28.woff) format('woff'); /* Modern Browsers */
+}
+
+/* exo-900normal - latin */
+@font-face {
+  font-family: 'Exo';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Exo Black '),
+    local('Exo-Black'),
+    url(static/media/exo-latin-900.fbe4caf5.woff2) format('woff2'), 
+    url(static/media/exo-latin-900.37a47071.woff) format('woff'); /* Modern Browsers */
+}
+
+/* exo-900italic - latin */
+@font-face {
+  font-family: 'Exo';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 900;
+  src:
+    local('Exo Black italic'),
+    local('Exo-Blackitalic'),
+    url(static/media/exo-latin-900italic.3aafcbed.woff2) format('woff2'), 
+    url(static/media/exo-latin-900italic.a17b302e.woff) format('woff'); /* Modern Browsers */
+}
+
+
+/* ubuntu-300normal - latin */
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Ubuntu Light '),
+    local('Ubuntu-Light'),
+    url(static/media/ubuntu-latin-300.16a73d94.woff2) format('woff2'), 
+    url(static/media/ubuntu-latin-300.f4731881.woff) format('woff'); /* Modern Browsers */
+}
+
+/* ubuntu-300italic - latin */
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src:
+    local('Ubuntu Light italic'),
+    local('Ubuntu-Lightitalic'),
+    url(static/media/ubuntu-latin-300italic.094f326b.woff2) format('woff2'), 
+    url(static/media/ubuntu-latin-300italic.1f11b1e7.woff) format('woff'); /* Modern Browsers */
+}
+
+/* ubuntu-400normal - latin */
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Ubuntu Regular '),
+    local('Ubuntu-Regular'),
+    url(static/media/ubuntu-latin-400.5b23eeb3.woff2) format('woff2'), 
+    url(static/media/ubuntu-latin-400.1e926e22.woff) format('woff'); /* Modern Browsers */
+}
+
+/* ubuntu-400italic - latin */
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Ubuntu Regular italic'),
+    local('Ubuntu-Regularitalic'),
+    url(static/media/ubuntu-latin-400italic.ff2b5b4d.woff2) format('woff2'), 
+    url(static/media/ubuntu-latin-400italic.27149a96.woff) format('woff'); /* Modern Browsers */
+}
+
+/* ubuntu-500normal - latin */
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Ubuntu Medium '),
+    local('Ubuntu-Medium'),
+    url(static/media/ubuntu-latin-500.b4e565dc.woff2) format('woff2'), 
+    url(static/media/ubuntu-latin-500.e5613b0c.woff) format('woff'); /* Modern Browsers */
+}
+
+/* ubuntu-500italic - latin */
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src:
+    local('Ubuntu Medium italic'),
+    local('Ubuntu-Mediumitalic'),
+    url(static/media/ubuntu-latin-500italic.657fed7d.woff2) format('woff2'), 
+    url(static/media/ubuntu-latin-500italic.f068ac52.woff) format('woff'); /* Modern Browsers */
+}
+
+/* ubuntu-700normal - latin */
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Ubuntu Bold '),
+    local('Ubuntu-Bold'),
+    url(static/media/ubuntu-latin-700.b91fae46.woff2) format('woff2'), 
+    url(static/media/ubuntu-latin-700.669545b1.woff) format('woff'); /* Modern Browsers */
+}
+
+/* ubuntu-700italic - latin */
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src:
+    local('Ubuntu Bold italic'),
+    local('Ubuntu-Bolditalic'),
+    url(static/media/ubuntu-latin-700italic.c02fdf85.woff2) format('woff2'), 
+    url(static/media/ubuntu-latin-700italic.ad7e4c2f.woff) format('woff'); /* Modern Browsers */
+}
+
+
+
+/*# sourceMappingURL=vendors~main.3393bcb4.chunk.css.map*/

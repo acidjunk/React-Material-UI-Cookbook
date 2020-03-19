@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[86],{1488:function(module,exports,__webpack_require__){"use strict";var _interopRequireDefault=__webpack_require__(8);Object.defineProperty(exports,"__esModule",{value:!0}),exports.default=void 0;var _react=_interopRequireDefault(__webpack_require__(0)),_default=(0,_interopRequireDefault(__webpack_require__(9)).default)(_react.default.createElement("path",{d:"M10 4H2v16h20V6H12l-2-2z"}),"FolderSharp");exports.default=_default}}]);
+//# sourceMappingURL=86.c7499283e856776c6bdf.bundle.js.map

@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[77],{1489:function(module,exports,__webpack_require__){"use strict";var _interopRequireDefault=__webpack_require__(8);Object.defineProperty(exports,"__esModule",{value:!0}),exports.default=void 0;var _react=_interopRequireDefault(__webpack_require__(0)),_default=(0,_interopRequireDefault(__webpack_require__(9)).default)(_react.default.createElement("path",{d:"M22 6H12l-2-2H2v16h20V6zm-2 12H4V8h16v10z"}),"FolderOpenSharp");exports.default=_default}}]);
+//# sourceMappingURL=77.c7499283e856776c6bdf.bundle.js.map

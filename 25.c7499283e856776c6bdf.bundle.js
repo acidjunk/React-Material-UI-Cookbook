@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[25],{1426:function(module,exports,__webpack_require__){"use strict";var _interopRequireDefault=__webpack_require__(8);Object.defineProperty(exports,"__esModule",{value:!0}),exports.default=void 0;var _react=_interopRequireDefault(__webpack_require__(0)),_default=(0,_interopRequireDefault(__webpack_require__(9)).default)(_react.default.createElement("path",{d:"M9 5v2h6.59L4 18.59 5.41 20 17 8.41V15h2V5z"}),"CallMade");exports.default=_default}}]);
+//# sourceMappingURL=25.c7499283e856776c6bdf.bundle.js.map
